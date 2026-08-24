@@ -3,10 +3,7 @@
 <p align="center">
   <em>Building with AI since before it was normal to.</em>
 </p>
-
-<p align="center">
-   <em>⚽ Barça til I die. Messi fan for life.</em>
-</p>
+barca X messi 
 
 
 
