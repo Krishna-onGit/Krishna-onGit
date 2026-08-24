@@ -3,7 +3,7 @@
 <p align="center">
   <em>Building with AI since before it was normal to.</em>
 </p>
-barca X messi 
+
 
 
 
